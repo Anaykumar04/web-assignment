@@ -1,0 +1,139 @@
+.bgclr h1{
+    text-align: center;
+    font-size: 30px;
+}
+.sign p{
+    text-align: center;
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+    padding: 50px;
+}
+.mb{
+   font-size: 20px;
+   margin: auto;
+   background-color: orangered;
+   color: white;
+   border: solid 2px orangered;
+}
+.gb{
+   font-size: 20px;
+   margin: auto;
+   border: solid;
+   background-color: white;
+   color: aqua;
+   
+}
+.sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.sub img{
+    height: 300px;
+    width: 300px;
+    margin-right: 10px;
+}
+.pr h1{
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+.pr h2{
+    text-align: center;
+    font-size: 35px;
+}
+.pr h3{
+    text-align: center;
+}
+.sub h4{
+    font-size: 23px;
+    font-style: italic;
+}
+.sub h5{
+    font-size: 25px;
+    padding: 1px;
+    
+}
+.sub h6{
+    font-size: 15px;
+}
+.sub div{
+    margin-left: 25px;
+}
+.sec{
+    padding: 100px;
+}
+.im{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-right: 220px;
+}
+.tr{
+    font-size: 13px;
+    margin-left: 110px;
+    
+}
+.tr h1{
+    color: lightsteelblue;
+    font-size: 40px;
+    font-style: italic;
+}
+.tr h2{
+    font-size: 23px;
+    color: black;
+}
+.su{
+    display: flex;
+    
+    align-items: center;
+    
+}
+
+.su img{
+    height: 330px;
+    width: 300px;
+    margin-right: 10px;
+}
+.su div{
+    margin-left: 25px;
+}
+.su h4{
+    font-size: 35px;
+}
+.su h5{
+    font-size: 25px;
+}
+.se{
+    padding: 150px;
+}
+.su h6{
+    font-size: 15px;
+}
+.iii{
+    padding: 5px;
+}
+.imc{
+    height: 320px;
+    width: 300px;
+    float: right;
+    margin-right: 220px;
+}
+.trr{
+    font-size: 13px;
+    margin-left: 110px;
+    
+}
+.trr h1{
+    font-size: 35px;
+}
+.trr h2{
+    font-size: 25px;
+}
+.trr h3{
+    font-size: 15px;
+}
